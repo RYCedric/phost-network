@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/phost-network/static/css/main.1522d4e0.chunk.css",
+    "main.js": "/phost-network/static/js/main.1513f0b4.chunk.js",
+    "main.js.map": "/phost-network/static/js/main.1513f0b4.chunk.js.map",
+    "runtime-main.js": "/phost-network/static/js/runtime-main.62393e3d.js",
+    "runtime-main.js.map": "/phost-network/static/js/runtime-main.62393e3d.js.map",
+    "static/css/2.7c1bda0c.chunk.css": "/phost-network/static/css/2.7c1bda0c.chunk.css",
+    "static/js/2.573370a7.chunk.js": "/phost-network/static/js/2.573370a7.chunk.js",
+    "static/js/2.573370a7.chunk.js.map": "/phost-network/static/js/2.573370a7.chunk.js.map",
+    "index.html": "/phost-network/index.html",
+    "static/css/2.7c1bda0c.chunk.css.map": "/phost-network/static/css/2.7c1bda0c.chunk.css.map",
+    "static/css/main.1522d4e0.chunk.css.map": "/phost-network/static/css/main.1522d4e0.chunk.css.map",
+    "static/js/2.573370a7.chunk.js.LICENSE.txt": "/phost-network/static/js/2.573370a7.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/phost-network/static/media/JosefinSans-Regular.c2462bfe.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62393e3d.js",
+    "static/css/2.7c1bda0c.chunk.css",
+    "static/js/2.573370a7.chunk.js",
+    "static/css/main.1522d4e0.chunk.css",
+    "static/js/main.1513f0b4.chunk.js"
+  ]
+}
